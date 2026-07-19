@@ -9,39 +9,51 @@ X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:2203fb362a56@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260719T231406Z
 DTSTART;TZID=Australia/Sydney:20260720T090000
 DTEND;TZID=Australia/Sydney:20260720T100000
 SUMMARY:Microbiology and Immunology – BCS MICRO Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams
+Meeting ID: 499 146 405 846 55
+Password: xs37fY22
+Slides on ECHO
+URL:https://teams.microsoft.com/meet/49914640584655?p=bsjVt35kyhlzN6PwW9
 END:VEVENT
 BEGIN:VEVENT
 UID:a2cc1bcdef1a@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260719T231406Z
 DTSTART;TZID=Australia/Sydney:20260720T100000
 DTEND;TZID=Australia/Sydney:20260720T110000
 SUMMARY:Histology of the cardiovascular system – BCS HIST Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams
+Meeting ID: 468 033 634 792 24
+Password: KX6zL67C
+Slides on ECHO
+URL:https://teams.microsoft.com/meet/46803363479224?p=ipONKLpBjbzH5Jb2Cs
 END:VEVENT
 BEGIN:VEVENT
 UID:bcefe6b1f656@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260719T231406Z
 DTSTART;TZID=Australia/Sydney:20260720T130000
 DTEND;TZID=Australia/Sydney:20260720T150000
 SUMMARY:Anatomy of the neck\, larynx\, thyroid and salivary glands – BCS ANAT Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams
+Meeting ID: 450 308 068 413 37
+Password: Sv7Dr7iy
+Slides on ECHO
+URL:https://teams.microsoft.com/meet/45030806841337?p=nUj5HPgXyFK6hlyYdz
 END:VEVENT
 BEGIN:VEVENT
 UID:e4e53d6d5dc0@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:Histology of heart and vessels – BCS HIST Practical (TBC)
-LOCATION:F2F
-DESCRIPTION:Delivery: F2F Broadway Campus (NDS23 Mountain St)\; group/time TBC
+DTSTAMP:20260719T231406Z
+DTSTART;TZID=Australia/Sydney:20260721T120000
+DTEND;TZID=Australia/Sydney:20260721T140000
+SUMMARY:Histology of heart and vessels – BCS HIST Practical
+LOCATION:F2F Broadway Campus (NDS23 Mountain St)
+DESCRIPTION:Group I is in the Group K–T slot. Attendance mandatory and recorded. Practical is not recorded. Download the lab manual to an iPad/laptop.
 END:VEVENT
 BEGIN:VEVENT
 UID:6fa6a72ccc96@sem2groupi
@@ -62,29 +74,39 @@ DESCRIPTION:PBL room applies only to this PBL session.
 END:VEVENT
 BEGIN:VEVENT
 UID:79619bf56ee4@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260719T231406Z
 DTSTART;TZID=Australia/Sydney:20260723T110000
 DTEND;TZID=Australia/Sydney:20260723T120000
 SUMMARY:Importance of the Early Years – PPH PAEDS Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams
+Meeting ID: 431 474 798 004 9
+Password: bR7aX3fb
+URL:https://teams.microsoft.com/meet/4314747980049?p=olKAMnreoaELwyeoV
 END:VEVENT
 BEGIN:VEVENT
 UID:757456a0b6ae@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260719T231406Z
 DTSTART;TZID=Australia/Sydney:20260723T130000
 DTEND;TZID=Australia/Sydney:20260723T140000
 SUMMARY:Exam Feedback
 LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
+Meeting ID: 477 067 650 118 57
+Password: NL7HX7au
+URL:https://teams.microsoft.com/meet/47706765011857?p=Yk2T5zWx3me9LDp4xl
 END:VEVENT
 BEGIN:VEVENT
 UID:aee199dd94d2@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260719T231406Z
 DTSTART;TZID=Australia/Sydney:20260723T140000
 DTEND;TZID=Australia/Sydney:20260723T150000
 SUMMARY:Arterial blood gases & Cyanosis – CCS Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams
+Meeting ID: 452 310 946 178 32
+Password: KM6B9xd7
+URL:https://teams.microsoft.com/meet/45231094617832?p=sTZjzCiBsato13jl3o
 END:VEVENT
 BEGIN:VEVENT
 UID:f2aa71197157@sem2groupi
@@ -1574,5 +1596,14 @@ DTSTAMP:20260630T090352Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Kai's Birthday!
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c8a45487c3@sem2groupi
+DTSTAMP:20260719T231406Z
+DTSTART;TZID=Australia/Sydney:20260722T120000
+DTEND;TZID=Australia/Sydney:20260722T123000
+SUMMARY:Introduction to the Head of Indigenous Health and Medicine Domain – Session
+LOCATION:F2F Darlinghurst NDS14/301 Lecture Theatre
+DESCRIPTION:Attendance strongly recommended.
 END:VEVENT
 END:VCALENDAR
