@@ -48,12 +48,12 @@ URL:https://teams.microsoft.com/meet/45030806841337?p=nUj5HPgXyFK6hlyYdz
 END:VEVENT
 BEGIN:VEVENT
 UID:e4e53d6d5dc0@sem2groupi
-DTSTAMP:20260719T231406Z
-DTSTART;TZID=Australia/Sydney:20260721T120000
-DTEND;TZID=Australia/Sydney:20260721T140000
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260721T143000
+DTEND;TZID=Australia/Sydney:20260721T163000
 SUMMARY:Histology of heart and vessels – BCS HIST Practical
 LOCATION:F2F Broadway Campus (NDS23 Mountain St)
-DESCRIPTION:Group I is in the Group K–T slot. Attendance mandatory and recorded. Practical is not recorded. Download the lab manual to an iPad/laptop.
+DESCRIPTION:Group I: Group A–J slot\, 2:30–4:30 PM. Attendance mandatory and recorded. Practicals are not recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:6fa6a72ccc96@sem2groupi
@@ -154,39 +154,42 @@ DESCRIPTION:Delivery: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:d87200ba2d1e@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260727T110000
 DTEND;TZID=Australia/Sydney:20260727T120000
 SUMMARY:Anatomy of the trachea\, bronchial tree\, thoracic wall\, pleura and lungs – BCS ANAT Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 429 509 561 984 33\nPassword: J5aQ69y8\nSlides on ECHO
+URL:https://teams.microsoft.com/meet/42950956198433?p=gc1jEEj8BnEqiLHH0B
 END:VEVENT
 BEGIN:VEVENT
 UID:fae21f48b33a@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260728T090000
 DTEND;TZID=Australia/Sydney:20260728T100000
 SUMMARY:Cardiovascular system history and examination – CCS Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 458 025 307 047 52\nPassword: xr2o4DW6\nOne Teams link for both sessions.
+URL:https://teams.microsoft.com/meet/45802530704752?p=LHNvualJ8TGRFdCIi
 END:VEVENT
 BEGIN:VEVENT
 UID:a622ff5b7b9a@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260728T100000
 DTEND;TZID=Australia/Sydney:20260728T110000
 SUMMARY:The ECG made easy – CCS Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 458 025 307 047 52\nPassword: xr2o4DW6\nOne Teams link for both sessions.
+URL:https://teams.microsoft.com/meet/45802530704752?p=LHNvualJ8TGRFdCIi
 END:VEVENT
 BEGIN:VEVENT
 UID:7a2ce6376555@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:Thorax – BCS ANAT Practical (TBC)
-LOCATION:F2F
-DESCRIPTION:Delivery: F2F Broadway Campus (NDS23 Mountain St)\; group/time TBC
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260728T143000
+DTEND;TZID=Australia/Sydney:20260728T163000
+SUMMARY:Thorax – BCS ANAT Practical
+LOCATION:F2F Broadway Campus (NDS23 Mountain St)
+DESCRIPTION:Group I: Group A–J slot\, 2:30–4:30 PM. Attendance mandatory and recorded. Practicals are not recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:ab59a82d3d8d@sem2groupi
@@ -207,12 +210,13 @@ DESCRIPTION:PBL room applies only to this PBL session.
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4a203c8afd@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;TZID=Australia/Sydney:20260730T090000
-DTEND;TZID=Australia/Sydney:20260730T100000
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260727T090000
+DTEND;TZID=Australia/Sydney:20260727T100000
 SUMMARY:Pathology of atherosclerosis – BCS PATH Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 440 952 411 784 2\nPassword: aR3nV2Pu
+URL:https://teams.microsoft.com/meet/4409524117842?p=jRlqllAgEaRtssR815
 END:VEVENT
 BEGIN:VEVENT
 UID:4aeb3a289fd7@sem2groupi
@@ -225,30 +229,33 @@ DESCRIPTION:Delivery: Pre-recorded Lecture
 END:VEVENT
 BEGIN:VEVENT
 UID:67d37dcca879@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260730T120000
 DTEND;TZID=Australia/Sydney:20260730T130000
 SUMMARY:Autonomic Nervous System Pharmacology – BCS PHARM Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 421 896 229 244 940\nPassword: uB3sd3F4\nOne Teams link for this and Pharmacology of Asthma.
+URL:https://teams.microsoft.com/meet/421896229244940?p=yWcxUQhHGFM811Lbvu
 END:VEVENT
 BEGIN:VEVENT
 UID:41b6686c7b19@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260730T130000
 DTEND;TZID=Australia/Sydney:20260730T140000
 SUMMARY:Pharmacology of Asthma – BCS PHARM Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 421 896 229 244 940\nPassword: uB3sd3F4\nOne Teams link for this and Autonomic Nervous System Pharmacology.
+URL:https://teams.microsoft.com/meet/421896229244940?p=yWcxUQhHGFM811Lbvu
 END:VEVENT
 BEGIN:VEVENT
 UID:3c0e0271a5fa@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260730T140000
 DTEND;TZID=Australia/Sydney:20260730T150000
 SUMMARY:Pathology of acute Kidney injury – BCS PATH Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 470 461 182 433 94\nPassword: jB6Tb6qz
+URL:https://teams.microsoft.com/meet/47046118243394?p=ucM9K4hfbimtCI0BeT
 END:VEVENT
 BEGIN:VEVENT
 UID:0644fad5e669@sem2groupi
@@ -287,21 +294,22 @@ DESCRIPTION:Location: NDS14/301 Lecture Theatre
 END:VEVENT
 BEGIN:VEVENT
 UID:3864d71fd52f@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;TZID=Australia/Sydney:20260803T090000
-DTEND;TZID=Australia/Sydney:20260803T110000
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260810T100000
+DTEND;TZID=Australia/Sydney:20260810T120000
 SUMMARY:Biochemistry and physiology of renal function – BCS BIOC Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:c626b78e57e2@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260803T110000
 DTEND;TZID=Australia/Sydney:20260803T120000
 SUMMARY:Physiology of Blood Pressure Regulation – BCS PHYS Lecture
 LOCATION:Microsoft Teams
-DESCRIPTION:Delivery: Teams
+DESCRIPTION:Delivery: Microsoft Teams\nMeeting ID: 442 588 876 236 63\nPassword: Mk7Dk3uV
+URL:https://teams.microsoft.com/meet/44258887623663?p=7v6tUlpKGg3sL8XQCU
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf8c754d5c9@sem2groupi
@@ -323,12 +331,12 @@ DESCRIPTION:Delivery: Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:69e28e691116@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:Measuring Airflow (Spirometry) – BCS PHYS Practical (TBC)
-LOCATION:F2F
-DESCRIPTION:Delivery: F2F Broadway Campus (NDS23 Mountain St)\; group/time TBC
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260804T120000
+DTEND;TZID=Australia/Sydney:20260804T140000
+SUMMARY:Measuring Airflow (Spirometry) – BCS PHYS Practical
+LOCATION:F2F Broadway Campus (NDS23 Mountain St)
+DESCRIPTION:Group I: Group A–J slot\, 12:00–2:00 PM. Attendance mandatory and recorded. Practicals are not recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:028ff5b35e38@sem2groupi
@@ -349,20 +357,21 @@ DESCRIPTION:PBL room applies only to this PBL session.
 END:VEVENT
 BEGIN:VEVENT
 UID:8907659e7c29@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260806T090000
 DTEND;TZID=Australia/Sydney:20260806T170000
 SUMMARY:Bioethics Intensive 6 – F2F
-LOCATION:F2F
-DESCRIPTION:Location: NDS14/301 Lecture Theatre
+LOCATION:F2F Darlinghurst (NDS14/301 Lecture Theatre)
+DESCRIPTION:Bioethics Intensive 6.
 END:VEVENT
 BEGIN:VEVENT
 UID:eb1abe48146c@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260807T080000
 DTEND;TZID=Australia/Sydney:20260807T133000
 SUMMARY:F-OSCE – CCS Skills Session
-LOCATION:F2F
+LOCATION:F2F Darlinghurst
+DESCRIPTION:Group I (A–J). No split timetable.
 END:VEVENT
 BEGIN:VEVENT
 UID:c5d31bcb9e4c@sem2groupi
@@ -393,12 +402,12 @@ DESCRIPTION:Delivery: Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:459acc949974@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:Urinary system\, lymphoid tissue and respiratory system – BCS HIST Practical (TBC)
-LOCATION:F2F
-DESCRIPTION:Delivery: F2F Broadway Campus (NDS23 Mountain St)\; group/time TBC
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260811T120000
+DTEND;TZID=Australia/Sydney:20260811T140000
+SUMMARY:Urinary system, lymphoid tissue and respiratory system – BCS HIST Practical
+LOCATION:F2F Broadway Campus (NDS23 Mountain St)
+DESCRIPTION:Group I: Group A–J slot\, 12:00–2:00 PM. Attendance mandatory and recorded. Practicals are not recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:e6a65fd45c36@sem2groupi
@@ -437,20 +446,21 @@ DESCRIPTION:Delivery: Pre-recorded Lecture
 END:VEVENT
 BEGIN:VEVENT
 UID:5c79caa87a7d@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260813T110000
 DTEND;TZID=Australia/Sydney:20260813T120000
 SUMMARY:Clinical Pharmacology of Hypertension – BCS PHARM Lecture
-LOCATION:Pre-recorded
-DESCRIPTION:Delivery: Recording (Fremantle Lecture)
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:3d2109c8d189@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260813T140000
 DTEND;TZID=Australia/Sydney:20260813T160000
 SUMMARY:Year 1 Rural Clinical Schools Information Session – Teams
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Attendance mandatory and recorded. Session will be recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:48d582ce1009@sem2groupi
@@ -480,12 +490,12 @@ DESCRIPTION:PBL room applies only to this PBL session.
 END:VEVENT
 BEGIN:VEVENT
 UID:e8cd68207336@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260814T151500
 DTEND;TZID=Australia/Sydney:20260814T170000
 SUMMARY:Year 1 Clinical Schools Information Session – F2F
-LOCATION:F2F
-DESCRIPTION:Location: NDS14/301 Lecture Theatre
+LOCATION:F2F Darlinghurst (NDS14/301 Lecture Theatre)
+DESCRIPTION:Attendance mandatory and recorded. Session will be recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:6726a1c51e8b@sem2groupi
@@ -543,12 +553,12 @@ DESCRIPTION:Delivery: Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:00a06ef6e862@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:Abdomen – posterior abdominal wall\, kidneys\, adrenal glands – BCS ANAT Practical (TBC)
-LOCATION:F2F
-DESCRIPTION:Delivery: F2F Broadway Campus (NDS23 Mountain St)\; group/time TBC
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260818T143000
+DTEND;TZID=Australia/Sydney:20260818T163000
+SUMMARY:Abdomen – posterior abdominal wall; kidneys; adrenal glands – BCS ANAT Practical
+LOCATION:F2F Broadway Campus (NDS23 Mountain St)
+DESCRIPTION:Group I: Group A–J slot\, 2:30–4:30 PM. Attendance mandatory and recorded. Practicals are not recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:4e0f22d4deaf@sem2groupi
@@ -577,11 +587,13 @@ LOCATION:F2F
 END:VEVENT
 BEGIN:VEVENT
 UID:02747b23781f@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260820T090000
 DTEND;TZID=Australia/Sydney:20260820T110000
 SUMMARY:Examination of the hip and knee – CCS Lecture
 LOCATION:Zoom
+DESCRIPTION:Delivery: Zoom\nMeeting ID: 834 7949 9869\nPassword: TBA
+URL:https://notredame-au.zoom.us/j/83479499869
 END:VEVENT
 BEGIN:VEVENT
 UID:154e67d9e1b5@sem2groupi
@@ -656,53 +668,57 @@ DESCRIPTION:PBL room applies only to this PBL session.
 END:VEVENT
 BEGIN:VEVENT
 UID:ef1bf3dfd1ba@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260821T150000
 DTEND;TZID=Australia/Sydney:20260821T160000
 SUMMARY:Cultural Competency in Aboriginal and Torres Strait Islander Health – Compulsory
-LOCATION:F2F
-DESCRIPTION:Location: NDS14/301 Lecture Theatre
+LOCATION:F2F Darlinghurst (NDS14/301 Lecture Theatre)
+DESCRIPTION:Compulsory. Attendance recorded. Session recorded for Echo360.
 END:VEVENT
 BEGIN:VEVENT
 UID:c86b6ae76baa@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260824T090000
 DTEND;TZID=Australia/Sydney:20260824T100000
 SUMMARY:Biochemistry of connective tissue and matrix proteins – BCS BIOC Lecture
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:8a04399427a0@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260824T100000
 DTEND;TZID=Australia/Sydney:20260824T110000
 SUMMARY:Biochemistry and endocrinology of bone and calcium regulation – BCS BIOC Lecture
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:ebf71010898e@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260824T140000
 DTEND;TZID=Australia/Sydney:20260824T160000
 SUMMARY:Anatomy of the brain\, intracranial venous sinuses and base of skull – BCS ANAT Lecture
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:735d46420cae@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260825T090000
 DTEND;TZID=Australia/Sydney:20260825T100000
 SUMMARY:Pathology of degenerative bone disease – BCS PATH Lecture
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:38214cc3e2d1@sem2groupi
-DTSTAMP:20260630T084402Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Neuroanatomy (Brain\, Spinal cord)\, head and neck – BCS ANAT Practical (TBC)
-LOCATION:F2F
-DESCRIPTION:Delivery: F2F Broadway Campus (NDS23 Mountain St)\; group/time TBC
+DTSTAMP:20260724T041937Z
+DTSTART;TZID=Australia/Sydney:20260825T143000
+DTEND;TZID=Australia/Sydney:20260825T163000
+SUMMARY:Neuroanatomy (Brain, Spinal cord) head and neck – BCS ANAT Practical
+LOCATION:F2F Broadway Campus (NDS23 Mountain St)
+DESCRIPTION:Group I: Group A–J slot\, 2:30–4:30 PM. Attendance mandatory and recorded. Practicals are not recorded.
 END:VEVENT
 BEGIN:VEVENT
 UID:0b2bfbe54c0e@sem2groupi
@@ -740,19 +756,21 @@ DESCRIPTION:Delivery: Pre-recorded Lecture
 END:VEVENT
 BEGIN:VEVENT
 UID:7a5827165c95@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260827T100000
 DTEND;TZID=Australia/Sydney:20260827T110000
 SUMMARY:Dementia and Successful ageing – PPH Lecture
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:74f986747a1e@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260827T110000
 DTEND;TZID=Australia/Sydney:20260827T120000
 SUMMARY:Injury prevention in the elderly (falls) – PPH Lecture
-LOCATION:Zoom
+LOCATION:Microsoft Teams
+DESCRIPTION:Delivery: Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
 UID:20c8f2b7aae4@sem2groupi
@@ -782,12 +800,12 @@ DESCRIPTION:PBL room applies only to this PBL session.
 END:VEVENT
 BEGIN:VEVENT
 UID:c8e0e3e4db75@sem2groupi
-DTSTAMP:20260630T084402Z
+DTSTAMP:20260724T041937Z
 DTSTART;TZID=Australia/Sydney:20260828T150000
 DTEND;TZID=Australia/Sydney:20260828T160000
 SUMMARY:Aboriginal & Torres Strait Islander People in Australia - link between Health & Culture – Compulsory
-LOCATION:F2F
-DESCRIPTION:Location: NDS14/301 Lecture Theatre
+LOCATION:F2F Darlinghurst (NDS14/301 Lecture Theatre)
+DESCRIPTION:Compulsory. Attendance recorded. Session recorded for Echo360.
 END:VEVENT
 BEGIN:VEVENT
 UID:e412adf09362@sem2groupi
